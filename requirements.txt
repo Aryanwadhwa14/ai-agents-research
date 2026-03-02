@@ -1,0 +1,8 @@
+langchain
+openai
+faiss-cpu
+chromadb
+tqdm
+pandas
+python-dotenv
+unstructured
