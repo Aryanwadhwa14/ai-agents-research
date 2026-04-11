@@ -1,0 +1,9 @@
+{
+  "query": "What is the user's favorite color?",
+  "initial_answer": "The user's favorite color is blue.",
+  "initial_latency_sec": 0.5,
+  "initial_score": 1.0,
+  "updated_answer": "The user's favorite color is green.",
+  "updated_latency_sec": 0.8,
+  "updated_score": 1.0
+}

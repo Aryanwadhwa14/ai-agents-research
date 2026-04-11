@@ -1,0 +1,7 @@
+TestName,Latency_sec
+RAG_256,5.0
+RAG_512,2.5
+RAG_1024,1.25
+Update_Initial,0.5
+Update_Final,0.8
+Multi_Session,1.2

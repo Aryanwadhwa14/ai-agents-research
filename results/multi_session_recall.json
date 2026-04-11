@@ -1,0 +1,6 @@
+{
+  "query": "What kind of architecture does the user want for their web app?",
+  "answer": "The user wants a microservices approach.",
+  "latency_sec": 1.2,
+  "score": 1.0
+}
