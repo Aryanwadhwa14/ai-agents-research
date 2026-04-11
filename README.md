@@ -1,4 +1,4 @@
-# MemoryFrameworkOrchestrator: Addressing Memory Limitations in LLM-Based Agents
+# Memory Framework Orchestrator: Addressing Memory Limitations in LLM-Based Agents
 
 This repository contains the implementation of a modular memory evaluation framework designed to benchmark and reproduce the results discussed in the research paper **"Addressing Memory Limitations in LLM-Based Agents"**. It automates the evaluation of various memory solutions like Retrieval-Augmented Generation (RAG), agent state updates, and multi-session memory recall.
 
