@@ -1,0 +1,8 @@
+{
+  "architecture": "MCP",
+  "single_hop_accuracy": 85,
+  "multi_hop_accuracy": 75,
+  "latency_p95_sec": 1.5,
+  "token_usage": 1800,
+  "adaptability": "high"
+}

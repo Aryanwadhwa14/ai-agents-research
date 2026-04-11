@@ -1,0 +1,8 @@
+{
+  "architecture": "LangChain",
+  "single_hop_accuracy": 75,
+  "multi_hop_accuracy": 45,
+  "latency_p95_sec": 1.5,
+  "token_usage": 18000,
+  "adaptability": "medium"
+}

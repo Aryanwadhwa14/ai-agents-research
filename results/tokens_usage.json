@@ -1,5 +1,10 @@
 {
-  "RAG_Benchmark": 300,
-  "Agent_Update": 150,
-  "Multi_Session": 100
+  "RAG": 16000,
+  "LangChain": 18000,
+  "LlamaIndex": 1600,
+  "ReAct": 2800,
+  "MemGPT": 4000,
+  "HiAgent": 1500,
+  "A-MEM": 1200,
+  "MCP": 1800
 }

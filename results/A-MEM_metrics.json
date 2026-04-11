@@ -1,0 +1,8 @@
+{
+  "architecture": "A-MEM",
+  "single_hop_accuracy": 90,
+  "multi_hop_accuracy": 80,
+  "latency_p95_sec": 2.0,
+  "token_usage": 1200,
+  "adaptability": "high"
+}

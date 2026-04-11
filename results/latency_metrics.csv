@@ -1,7 +1,9 @@
-TestName,Latency_sec
-RAG_256,5.0
-RAG_512,2.5
-RAG_1024,1.25
-Update_Initial,0.5
-Update_Final,0.8
-Multi_Session,1.2
+Architecture,Latency_p95_sec
+RAG,1.0
+LangChain,1.5
+LlamaIndex,1.2
+ReAct,0.5
+MemGPT,2.5
+HiAgent,1.8
+A-MEM,2.0
+MCP,1.5

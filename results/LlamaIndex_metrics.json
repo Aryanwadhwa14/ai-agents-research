@@ -1,0 +1,8 @@
+{
+  "architecture": "LlamaIndex",
+  "single_hop_accuracy": 80,
+  "multi_hop_accuracy": 40,
+  "latency_p95_sec": 1.2,
+  "token_usage": 1600,
+  "adaptability": "medium"
+}

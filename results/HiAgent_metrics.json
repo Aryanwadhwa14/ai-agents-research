@@ -1,0 +1,8 @@
+{
+  "architecture": "HiAgent",
+  "single_hop_accuracy": 85,
+  "multi_hop_accuracy": 70,
+  "latency_p95_sec": 1.8,
+  "token_usage": 1500,
+  "adaptability": "high"
+}

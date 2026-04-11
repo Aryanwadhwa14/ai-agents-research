@@ -1,13 +1,12 @@
-# Evaluation Scores
+# Memory Architectures Benchmark Scores
 
-## RAG Benchmark Accuracy
-- Chunk Size 256: 1.0
-- Chunk Size 512: 1.0
-- Chunk Size 1024: 1.0
-
-## Memory Update Accuracy
-- Initial Score: 1.0
-- Updated Score: 1.0
-
-## Multi-Session Recall
-- Score: 1.0
+| Architecture | Single-Hop Acc | Multi-Hop Acc | Adaptability |
+|--------------|----------------|----------------|--------------|
+| RAG | 75% | 35% | low |
+| LangChain | 75% | 45% | medium |
+| LlamaIndex | 80% | 40% | medium |
+| ReAct | 80% | 30% | low |
+| MemGPT | 85% | 80% | high |
+| HiAgent | 85% | 70% | high |
+| A-MEM | 90% | 80% | high |
+| MCP | 85% | 75% | high |

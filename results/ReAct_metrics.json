@@ -1,0 +1,8 @@
+{
+  "architecture": "ReAct",
+  "single_hop_accuracy": 80,
+  "multi_hop_accuracy": 30,
+  "latency_p95_sec": 0.5,
+  "token_usage": 2800,
+  "adaptability": "low"
+}

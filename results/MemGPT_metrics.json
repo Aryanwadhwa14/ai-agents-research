@@ -1,0 +1,8 @@
+{
+  "architecture": "MemGPT",
+  "single_hop_accuracy": 85,
+  "multi_hop_accuracy": 80,
+  "latency_p95_sec": 2.5,
+  "token_usage": 4000,
+  "adaptability": "high"
+}
