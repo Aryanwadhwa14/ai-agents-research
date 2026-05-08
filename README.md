@@ -12,9 +12,8 @@ The system explicitly evaluates the following memory abstractions:
 4. **ReAct**: Zero-memory zero-shot reasoning (acting as a pure context-chaining baseline).
 5. **MemGPT**: OS-inspired multi-tiered memory routing (paging).
 6. **A-MEM**: Dynamic, agentic note-graph configurations (Zettelkasten-style).
-7. **HiAgent**: Subgoal-directed hierarchical memory summarization.
+7. **HiAgent**: Subgoal-directed hierarchical memory summarization. 
 8. **MCP (Multi-Agent Protocol)**: Context routing via isolated extraction agents.
-
 ## Evaluation Methodologies
 The benchmarks here are synthesized referencing publicly available metrics systems defined in the research:
 - **MemBench**: Evaluating multi-hop reasoning and observation precision.
